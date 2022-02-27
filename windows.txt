@@ -15,7 +15,7 @@ x86_cabe61a0eebf053617ce422ffed936c0b2ca45e7.msu
 
 ; 2022-02 适用于 Windows 8.1 基于 x64 系统的仅安全更新
 
-https://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5010395-
+_only_8.1x64=https://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5010395-
 x64_0a97e05802268e3f3e0ae07de921f3c1e0c3009b.msu
 
 
