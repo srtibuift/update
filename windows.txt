@@ -3,39 +3,36 @@
 ; 2023-01 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总
 _8.1x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows8.1-kb5022352-x64_d625561eda52f6d1f768dc444b817af0650ce81f.msu
 
-
 ; 2023-01 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总
 _8.1x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows8.1-kb5022352-x86_4a3deb483a041881a7d5250d01a184f458e99325.msu
 
-
 ; 2023-01 适用于 Windows 8.1 基于 x64 系统的仅安全更新
 _only_8.1x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows8.1-kb5022346-x64_ff9f60e266918c364a805db5d49cf763540114ba.msu
-
 
 ; 2023-01 适用于 Windows 8.1 基于 x86 系统的仅安全更新
 _only_8.1x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows8.1-kb5022346-x86_3fec2f6ed543336f130721bfad5190d9bc707da7.msu
 
 
 
-; 2023-02 Windows 10 1809 基于 x64 系统的累计更新
-_1809x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/02/windows10.0-kb5022840-x64_d7bcae1d048b189823f475e979aba17217cb2892.msu
+; 2023-03 Windows 10 1809 基于 x64 系统的累计更新
+_1809x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2023/03/windows10.0-kb5023702-x64_25c0d04726b1f92c46e76d371ca58875051506c5.msu
 
 
-; 2023-02 Windows 10 1809 基于 x86 系统的累计更新
-_1809x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2023/02/windows10.0-kb5022840-x86_e78276ec3d34718b4eec5fed3f4e91a5e4980420.msu
+; 2023-03 Windows 10 1809 基于 x86 系统的累计更新
+_1809x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2023/03/windows10.0-kb5023702-x86_f217f0bcb037cac1d240bfd932e57daafdc04e95.msu
 
 
-; 2023-02 适用于 Windows 10 Version 21H2 的 09 累积更新，适合基于x64 的系统 
-_21H2x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/02/windows10.0-kb5022834-x64_c58d091338b26bbd3ee10a733681bd3eca8c48ab.msu
+; 2023-03 适用于 Windows 10 Version 21H2 的 09 累积更新，适合基于x64 的系统 
+_21H2x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/03/windows10.0-kb5023696-x64_84833717ac6fdecea30cc3d235479a65a68069b0.msu
 
 
-; 2023-02 适用于 Windows 10 Version 21H2 的 09 累积更新，适合基于x86 的系统 
-_21H2x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/02/windows10.0-kb5022834-x86_ff373174d021f85ddb920a2b1386af449d1c9864.msu
+; 2023-03 适用于 Windows 10 Version 21H2 的 09 累积更新，适合基于x86 的系统 
+_21H2x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2023/03/windows10.0-kb5023696-x86_a7845063c7139f57fd99bc5550aa01260af2e800.msu
 
 
-; 2023-02 适用于 Windows 10 Version 1607 的 09 累积更新，适合基于x64 的系统
-_1607x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2023/02/windows10.0-kb5022838-x64_459501093357a727a15bd3a1101df5e7213b721c.msu
+; 2023-03 适用于 Windows 10 Version 1607 的 09 累积更新，适合基于x64 的系统
+_1607x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/03/windows10.0-kb5023697-x64_0cde92f5aaba06c1a1bfd64615010c90180dcb86.msu
 
 
-; 2023-02 适用于 Windows 10 Version 1607 的 09 累积更新，适合基于x86 的系统
-_1607x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2023/02/windows10.0-kb5022838-x86_6e8241b62e7eb51c4cdcb272963def1a08ac9a5a.msu
+; 2023-03 适用于 Windows 10 Version 1607 的 09 累积更新，适合基于x86 的系统
+_1607x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2023/03/windows10.0-kb5023697-x86_16d244900507fdd477a2a12dacc89dfd5128c7d6.msu
